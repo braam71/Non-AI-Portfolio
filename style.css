@@ -93,10 +93,11 @@ hr {
     width: 40%;
     border: 1px solid rgb(55, 55, 90);
     border-radius: 10px;
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 .card:hover {
+    border: 2px solid rgb(119, 119, 196);
     transform: scale(1.05);
 }
 
